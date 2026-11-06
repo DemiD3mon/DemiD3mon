@@ -1,4 +1,4 @@
-<a name="top"></a>
+<a id="top"></a>
 
 <p align="center">
   <img src="./assets/profile-header.svg" width="100%" alt="Vian Studer, alias DemiD3mon. Electronics, embedded systems and local AI. Switzerland. Hardware, software and systems.">
@@ -35,7 +35,7 @@ My projects move between **physical hardware and software**: analog measurements
 
 > I learn best when I can build it, measure it and change it myself.
 
-<a name="workbench"></a>
+<a id="workbench"></a>
 
 ## ✦ Tools & technologies
 
@@ -71,7 +71,7 @@ My projects move between **physical hardware and software**: analog measurements
 <p><a href="#user-content-project-spectre">Explore SPECTRE ↓</a></p>
 </details>
 
-<a name="things-i-build"></a>
+<a id="things-i-build"></a>
 
 ## ✦ Things I build
 
@@ -80,7 +80,7 @@ My projects move between **physical hardware and software**: analog measurements
 <table>
 <tr>
 <td width="50%" valign="top">
-<a name="project-roxy"></a>
+<a id="project-roxy"></a>
 <h3>ROXY / Local AI assistant</h3>
 <p>A personal desktop assistant with local models, memory, permission-controlled tools and an animated interface.</p>
 <p><strong>Working with:</strong> Electron · React · TypeScript · Ollama</p>
@@ -93,7 +93,7 @@ My projects move between **physical hardware and software**: analog measurements
 </details>
 </td>
 <td width="50%" valign="top">
-<a name="project-alerts"></a>
+<a id="project-alerts"></a>
 <h3>Service-ticket warning system</h3>
 <p>Connecting software events to a physical warning light, with a local event emulator and Raspberry Pi integration.</p>
 <p><strong>Working with:</strong> Raspberry Pi · JSON · Webhooks · Hardware I/O</p>
@@ -108,7 +108,7 @@ My projects move between **physical hardware and software**: analog measurements
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a name="project-spectre"></a>
+<a id="project-spectre"></a>
 <h3>SPECTRE / Security workbench</h3>
 <p>A Windows desktop project for security learning, diagnostics and inspecting data through one interface.</p>
 <p><strong>Working with:</strong> C# · .NET · WPF · Local AI</p>
@@ -121,7 +121,7 @@ My projects move between **physical hardware and software**: analog measurements
 </details>
 </td>
 <td width="50%" valign="top">
-<a name="project-hardware"></a>
+<a id="project-hardware"></a>
 <h3>FPV & PC hardware</h3>
 <p>Built a 4S FPV drone and custom PCs. I enjoy choosing components, putting systems together and making them work.</p>
 <p><strong>Working with:</strong> Assembly · Wiring · Configuration · Testing</p>
@@ -146,13 +146,13 @@ My projects move between **physical hardware and software**: analog measurements
 - Connecting software interfaces to real devices and signals.
 - Building and configuring PCs, with a growing interest in self-hosted systems.
 
-<a name="beyond-the-workbench"></a>
+<a id="beyond-the-workbench"></a>
 
 ## ✦ Beyond the workbench
 
 **Game development / Learning:** Exploring Unreal Engine and dark-fantasy world building, from terrain and scale to the feel of a space.
 
-<a name="current-focus"></a>
+<a id="current-focus"></a>
 
 ## ✦ Current focus
 
@@ -167,7 +167,7 @@ exploring:
   - Motion and interface design
 ```
 
-<a name="activity"></a>
+<a id="activity"></a>
 
 ## ✦ Activity
 
