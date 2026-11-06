@@ -174,11 +174,9 @@ exploring:
 Public GitHub activity only tells part of the story. A lot of my work happens on a workbench, in private projects or while testing hardware.
 
 <details>
-<summary>Open contribution graph & snake</summary>
+<summary>Open contribution snake</summary>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DemiD3mon&bg_color=090c10&color=c9d1d9&line=ffffff&point=dde7f0&area=true&hide_border=true" width="100%" alt="Public contribution activity">
-<br>
-<img src="https://raw.githubusercontent.com/DemiD3mon/DemiD3mon/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake, available after the workflow runs">
+<img src="https://raw.githubusercontent.com/DemiD3mon/DemiD3mon/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake">
 </details>
 
 ---
