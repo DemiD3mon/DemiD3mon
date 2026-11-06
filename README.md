@@ -11,9 +11,9 @@
 <p align="center">
   <a href="https://github.com/DemiD3mon?tab=repositories"><img src="./assets/link-projects.svg" height="30" alt="Explore repositories"></a>
   &nbsp;
-  <a href="#workbench"><img src="./assets/link-workbench.svg" height="30" alt="Explore my workbench"></a>
+  <a href="#user-content-workbench"><img src="./assets/link-workbench.svg" height="30" alt="Explore my workbench"></a>
   &nbsp;
-  <a href="#current-focus"><img src="./assets/link-focus.svg" height="30" alt="Current focus"></a>
+  <a href="#user-content-current-focus"><img src="./assets/link-focus.svg" height="30" alt="Current focus"></a>
 </p>
 
 ## ✦ About me
@@ -54,28 +54,28 @@ My projects move between **physical hardware and software**: analog measurements
 <summary><strong>Electronics & hardware</strong> · Circuits, control and physical systems</summary>
 <p>I work with circuit assembly, soldering, measurement and troubleshooting, as well as microcontrollers, PWM and motor control.</p>
 <p><strong>On the bench:</strong> ESP32 · Raspberry Pi · C/C++ · PC hardware</p>
-<p><a href="#project-alerts">See the warning-light project ↓</a> · <a href="#project-hardware">Explore FPV & PC builds ↓</a></p>
+<p><a href="#user-content-project-alerts">See the warning-light project ↓</a> · <a href="#user-content-project-hardware">Explore FPV & PC builds ↓</a></p>
 </details>
 
 <details>
 <summary><strong>Local AI & interfaces</strong> · Models, memory and desktop tools</summary>
 <p>I use local models to explore personal assistants with memory, tool permissions and an interface built around everyday use.</p>
 <p><strong>In the stack:</strong> Ollama · Electron · React · TypeScript · Node.js</p>
-<p><a href="#project-roxy">Explore ROXY ↓</a></p>
+<p><a href="#user-content-project-roxy">Explore ROXY ↓</a></p>
 </details>
 
 <details>
 <summary><strong>Software & diagnostics</strong> · Inspecting data and understanding systems</summary>
 <p>I build desktop tools and use practical experiments to understand how systems behave, from inputs and signals to software output.</p>
 <p><strong>Working with:</strong> C# / .NET · Git · Application tooling</p>
-<p><a href="#project-spectre">Explore SPECTRE ↓</a></p>
+<p><a href="#user-content-project-spectre">Explore SPECTRE ↓</a></p>
 </details>
 
 <a name="things-i-build"></a>
 
 ## ✦ Things I build
 
-<p><a href="#project-roxy">ROXY</a> · <a href="#project-alerts">Warning system</a> · <a href="#project-spectre">SPECTRE</a> · <a href="#project-hardware">FPV & PC builds</a></p>
+<p><a href="#user-content-project-roxy">ROXY</a> · <a href="#user-content-project-alerts">Warning system</a> · <a href="#user-content-project-spectre">SPECTRE</a> · <a href="#user-content-project-hardware">FPV & PC builds</a></p>
 
 <table>
 <tr>
@@ -89,7 +89,7 @@ My projects move between **physical hardware and software**: analog measurements
 <summary>Explore the local assistant</summary>
 <p>Your input enters the desktop interface, which connects to a local model. Memory and permission-controlled tools support the assistant workflow.</p>
 <p><img src="./assets/flow-roxy.svg" width="100%" alt="Your input enters the desktop interface, which connects to a local model. Memory and permission-controlled tools support the assistant workflow."></p>
-<p><a href="#workbench">Back to the workbench ↑</a></p>
+<p><a href="#user-content-workbench">Back to the workbench ↑</a></p>
 </details>
 </td>
 <td width="50%" valign="top">
@@ -102,7 +102,7 @@ My projects move between **physical hardware and software**: analog measurements
 <summary>Follow the signal to the warning light</summary>
 <p>A software event reaches the Raspberry Pi, which connects the event workflow to a switched physical warning output.</p>
 <p><img src="./assets/flow-alerts.svg" width="100%" alt="A software event reaches the Raspberry Pi, which connects the event workflow to a switched physical warning output."></p>
-<p><a href="#workbench">Back to the workbench ↑</a></p>
+<p><a href="#user-content-workbench">Back to the workbench ↑</a></p>
 </details>
 </td>
 </tr>
@@ -117,7 +117,7 @@ My projects move between **physical hardware and software**: analog measurements
 <summary>Open the workbench workflow</summary>
 <p>A local workspace brings together inspection tools and diagnostic results, with notes for keeping track of findings.</p>
 <p><img src="./assets/flow-spectre.svg" width="100%" alt="A local workspace brings together inspection tools and diagnostic results, with notes for keeping track of findings."></p>
-<p><a href="#workbench">Back to the workbench ↑</a></p>
+<p><a href="#user-content-workbench">Back to the workbench ↑</a></p>
 </details>
 </td>
 <td width="50%" valign="top">
@@ -130,7 +130,7 @@ My projects move between **physical hardware and software**: analog measurements
 <summary>Explore the build process</summary>
 <p>Component selection, assembly, wiring, configuration and testing are all part of making a physical build work.</p>
 <p><img src="./assets/flow-hardware.svg" width="100%" alt="Component selection, assembly, wiring, configuration and testing are all part of making a physical build work."></p>
-<p><a href="#workbench">Back to the workbench ↑</a></p>
+<p><a href="#user-content-workbench">Back to the workbench ↑</a></p>
 </details>
 </td>
 </tr>
@@ -181,5 +181,5 @@ Public GitHub activity only tells part of the story. A lot of my work happens on
 
 ---
 
-<p align="center"><a href="#top">Back to top ↑</a> &nbsp; · &nbsp; <a href="#workbench">Workbench</a> &nbsp; · &nbsp; <a href="#activity">Activity</a> &nbsp; · &nbsp; <a href="https://github.com/DemiD3mon">GitHub / Vian Studer</a> &nbsp; · &nbsp; <a href="https://github.com/DemiD3mon?tab=repositories">Explore repositories</a></p>
+<p align="center"><a href="#user-content-top">Back to top ↑</a> &nbsp; · &nbsp; <a href="#user-content-workbench">Workbench</a> &nbsp; · &nbsp; <a href="#user-content-activity">Activity</a> &nbsp; · &nbsp; <a href="https://github.com/DemiD3mon">GitHub / Vian Studer</a> &nbsp; · &nbsp; <a href="https://github.com/DemiD3mon?tab=repositories">Explore repositories</a></p>
 <p align="center"><img src="./assets/footer.svg" width="100%" alt="Hardware. Software. Systems."></p>
